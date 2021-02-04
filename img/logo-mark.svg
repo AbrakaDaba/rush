@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="63" viewBox="0 0 63 63">
+    <defs>
+        <linearGradient id="b" x1="-49.85%" x2="123.295%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FAD961"/>
+            <stop offset="100%" stop-color="#F76B1C"/>
+        </linearGradient>
+        <path id="a" d="M31.5 63C48.897 63 63 48.897 63 31.5S48.897 0 31.5 0 0 14.103 0 31.5 14.103 63 31.5 63zM17.64 35.682V13.86h18.187c6.786 0 11.4 3.655 11.4 9.93 0 4.145-1.791 6.437-3.691 7.8v.219c3.094 1.473 4.234 7.853 4.234 12.872 0 6.983-.431-8.999-7.869-8.999H17.64zm8.47-7.092h8.468c2.878 0 4.018-1.528 4.018-3.6 0-2.074-1.14-3.601-4.018-3.601H26.11v7.2zm5.39 18.03a3.78 3.78 0 1 1 0-7.56 3.78 3.78 0 0 1 0 7.56z"/>
+        <linearGradient id="c" x1="-30.508%" x2="172.855%" y1="0%" y2="85.867%">
+            <stop offset="0%" stop-color="#FAD961"/>
+            <stop offset="100%" stop-color="#F76B1C"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="d" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="url(#b)" fill-rule="nonzero" xlink:href="#a"/>
+        <circle cx="31.5" cy="23.5" r="31.5" fill="url(#c)" fill-rule="nonzero" mask="url(#d)"/>
+    </g>
+</svg>
